@@ -1,0 +1,39 @@
+.container {
+  border: 3px solid rgba(77, 21, 180, 0.685);
+  padding: 10px;
+}
+.container-fluid {
+  border: 3px solid rgb(92, 92, 92);
+  padding: 0px;
+}
+.pic {
+  padding-left: 650px;
+  padding-right: 650px;
+  padding-top: 20px;
+  padding-bottom: 60px;
+}
+.pic-size {
+  height: 600px;
+  width: 600px;
+}
+.new-btn {
+    margin-left: 870px;
+}
+.new{
+    color: rgb(18, 236, 163);
+}
+.old{
+    color: rgb(17, 238, 73);
+}
+.ma{
+    color: rgb(37, 6, 212);
+}
+.mi{
+    color: rgb(3, 12, 4);
+}
+.mu{
+    color: rgb(17, 17, 16);
+}
+.na{
+    color: rgba(15, 2, 77, 0.911);
+}
